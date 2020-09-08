@@ -3,7 +3,7 @@
     "name": "Suley Msumari",
     "occupation": "Full stack Developer && Instructor @Robotech labs",
     "description": "Full Stack React && Node Developer ,  Freelancer by Night. #Msumari",
-    "image": "34934915.jpg",
+    "image": "suley.jpeg",
     "bio": "My name is Suley, I'm a Full Stack Developer. Currently I'm working at Robotech labs while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "suleykhery@gmail.com",
@@ -14,8 +14,8 @@
       "state": "Tanzania",
       "zip": "DSM"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.msumari.netilfy.app",
+    "resumedownload": "http://www.msumari.netilfy.app",
     "social": [
       {
         "name": "facebook",
@@ -105,35 +105,12 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "NodeJS Stack Zoom Clone",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "Seeme.jpeg",
+        "url": "https://github.com/msumari/ISY"
       }
+     
     ]
   },
   "testimonials": {
@@ -143,7 +120,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Suley must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
