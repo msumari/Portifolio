@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Suley Msumari",
+    "occupation": "Full stack Developer && Instructor @Robotech labs",
+    "description": "Full Stack React && Node Developer ,  Freelancer by Night. #Msumari",
+    "image": "suley.jpg",
+    "bio": "My name is Suley, I'm a Full Stack Developer. Currently I'm working at Robotech labs while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "suleykhery@gmail.com",
+    "phone": "+255 623 404 211",
+    "address": {
+      "street": "Kibamba",
+      "city": "Dar es salaam",
+      "state": "Tanzania",
+      "zip": "DSM"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/swar.ozzy",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/suleiman-msumari-75170b181",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/msumari",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National Institute of Transport",
+        "degree": "Bachelor degree in Information Technology",
+        "graduated": "December 2020",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Robotech labs",
+        "title": "Team Member && Software engineer",
+        "years": "July 2019 - Present",
+        "description": "Implementing software projects && Teaching programming to students."
+      },
+      {
+        "company": "Simbanet",
+        "title": "Network operator Intern",
+        "years": "July 2018 - December 2019",
+        "description": "Trouble-shooting clients network fustrations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      }, 
+      {
+        "name": "NodeJs",
+        "level": "88%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+     {
+        "name": "Computer vision",
+        "level": "60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
