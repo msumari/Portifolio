@@ -66,31 +66,31 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "NodeJs",
-        "level": "60%"
+        "level": "40%"
       },
       {
         "name": "CSS",
-        "level": "75%"
-      },
-      {
-        "name": "Git",
-        "level": "45%"
-      },
-      {
-        "name": "HTML5",
         "level": "80%"
       },
       {
+        "name": "Git",
+        "level": "35%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
         "name": "MongoDB",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "C++",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Computer vision",
@@ -98,12 +98,24 @@
       },
       {
         "name": "Flutter",
-        "level": "50%"
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "E-phamarcy UI",
+        "category": "E-phamarcy built with ReactJS",
+        "image": "e-commerce.JPG",
+        "url": "https://e-phamarcy.netlify.app/"
+      },
+      {
+        "title": "Robotech labs",
+        "category": "Robotech labs built with ReactJS",
+        "image": "robotech.JPG",
+        "url": "https://robotech.co.tz/"
+      },
       {
         "title": "NodeJS Stack Zoom Clone",
         "category": "Zoom Clone built with NodeJS",
